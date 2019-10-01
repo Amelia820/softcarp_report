@@ -16,3 +16,5 @@ link to [all RStudio cheatsheets](http://www.rstudio.com/resources/cheatsheets/)
 
 ![an unicorn](https://www.google.com.hk/search?q=unicorn&client=safari&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjqptGGnfrkAhVOT30KHdvnDDwQ_AUIESgB&biw=1440&bih=837#imgrc=ksbbyH0ufFtJeM:)
 
+## To learn more
+[The carpentry] (https://swcarpentry.github.io/r-novice-gapminder/13-dplyr/index.html)
