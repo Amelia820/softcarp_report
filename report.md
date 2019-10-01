@@ -12,6 +12,7 @@ The **Software Carpentry** workshop was held at UQ on 30th of Sept.- 1st of Oct.
 
 ## look for mardown syntax
 
-[all RStudio cheatsheets](http://www.rstudio.com/resources/cheatsheets/)
+link to [all RStudio cheatsheets](http://www.rstudio.com/resources/cheatsheets/)
 
-How do I add an image? Univorns and cats are good.
+![an unicorn](https://www.google.com.hk/search?q=unicorn&client=safari&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjqptGGnfrkAhVOT30KHdvnDDwQ_AUIESgB&biw=1440&bih=837#imgrc=ksbbyH0ufFtJeM:)
+
