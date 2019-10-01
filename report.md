@@ -6,3 +6,5 @@ The **Software Carpentry** workshop was held at UQ on 30th of Sept.- 1st of Oct.
 * Creating objects with R
 * Bad food at St Lucia
 
+## What I didn't like
+*
